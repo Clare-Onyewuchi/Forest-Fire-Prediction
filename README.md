@@ -1,5 +1,5 @@
 
-Overview
+About
 This project builds a predictive model to classify whether a forest is at risk of fire, based on environmental and ecological features. The project was completed as a formally assessed university assignment (ITNPBD6) and follows the CRISP-DM (Cross-Industry Standard Process for Data Mining) methodology end-to-end.
 Four classification models were developed, tuned, and evaluated — Logistic Regression, Decision Tree, Random Forest, and Neural Network (MLP) — with Logistic Regression selected as the final model based on its balanced performance across all evaluation metrics.
 A research poster summarising the methodology and findings was produced as part of the assessment.
